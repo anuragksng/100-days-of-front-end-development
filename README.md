@@ -37,3 +37,5 @@ We welcome contributions! If you'd like to contribute to the project, follow the
 3. Make your changes.
 4. Submit a pull request.
 
+![Screenshot from 2024-02-15 16-21-48](https://github.com/anuragksng/100-days-of-front-end-development/assets/63725437/48882cbc-0ebb-48ff-827b-dbff8af46654)
+
